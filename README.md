@@ -14,7 +14,7 @@ If you don't have PyTorch installed. Follow their instructions [here](https://py
 Install the package `pix2tex`: 
 
 ```
-pip install pix2tex[gui]
+pip install pix2tex
 ```
 
 Model checkpoints will be downloaded automatically.
